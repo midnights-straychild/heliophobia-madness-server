@@ -1,1 +1,1 @@
-java -server -Xmn1G -Xms8192m -Xmx8192M -XX:PermSize=256m -d64 -XX:+UseG1GC -XX:+DisableExplicitGC -XX:+UseCompressedOops -XX:+UseCodeCacheFlushing -XX:MaxGCPauseMillis=250 -XX:+CMSIncrementalPacing -XX:+CMSClassUnloadingEnabled -XX:ParallelGCThreads=4 -XX:MinHeapFreeRatio=5 -XX:MaxHeapFreeRatio=10 -jar forge-1.7.10-10.13.4.1614-1.7.10-universal.jar nogui pause
+java -server -Xmx4G -Xms4G -d64 -XX:+DisableExplicitGC -XX:+UseConcMarkSweepGC -jar forge-1.7.10-10.13.4.1614-1.7.10-universal.jar nogui pause
