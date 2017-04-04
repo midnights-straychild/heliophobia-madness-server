@@ -1,0 +1,17 @@
+.idea
+logs/*
+backups/*
+dynmap/web
+world
+ForgeEssentials/ChatLog
+ForgeEssentials/mapper
+ForgeEssentials/*.db
+*.log
+config.old
+crash-reports
+whitelist.json
+ops.json
+usercache.json
+usernamecache.json
+banned-ips.json
+banned-players.json
