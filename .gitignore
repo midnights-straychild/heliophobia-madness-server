@@ -1,7 +1,7 @@
 .idea
 logs/*
 backups/*
-dynmap/web
+dynmap/web/tiles
 world
 ForgeEssentials/ChatLog
 ForgeEssentials/mapper
