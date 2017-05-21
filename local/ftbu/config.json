@@ -31,7 +31,7 @@
   },
   "login": {
     "motd": [
-      "Welcome to the server!"
+      "Welcome to the MADNESS!"
     ],
     "starting_items": [
       "minecraft:apple 16 0"
@@ -72,8 +72,8 @@
     "forced_chunk_security": "-",
     "forced_explosions": "-",
     "max_claims": 100,
-    "max_homes": 1,
-    "max_loaded_chunks": 50,
+    "max_homes": 2,
+    "max_loaded_chunks": 10,
     "offline_chunkloader_timer": 24.0,
     "show_rank": true
   },
