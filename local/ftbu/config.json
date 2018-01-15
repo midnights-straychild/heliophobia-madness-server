@@ -50,10 +50,10 @@
     "dimension_blacklist": [],
     "forced_chunk_security": "-",
     "forced_explosions": "-",
-    "max_claims": 1000,
+    "max_claims": 200,
     "max_homes": 100,
     "max_loaded_chunks": 50,
-    "offline_chunkloader_timer": 24.0,
+    "offline_chunkloader_timer": 48.0,
     "show_rank": true
   },
   "permissions_player": {
@@ -71,9 +71,9 @@
     ],
     "forced_chunk_security": "-",
     "forced_explosions": "-",
-    "max_claims": 100,
+    "max_claims": 16,
     "max_homes": 2,
-    "max_loaded_chunks": 10,
+    "max_loaded_chunks": 4,
     "offline_chunkloader_timer": 24.0,
     "show_rank": true
   },
